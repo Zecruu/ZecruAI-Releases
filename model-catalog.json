@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "updated": "2026-11-09",
+  "models": {
+    "claude": [
+      { "id": "claude-fable-5-2", "label": "Claude Fable 5.2", "minCliVersion": "2.1.321" }
+    ],
+    "codex": [],
+    "grok": [],
+    "cursor": []
+  }
+}
