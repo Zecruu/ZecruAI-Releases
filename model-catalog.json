@@ -1,11 +1,14 @@
 {
   "schema": 1,
-  "updated": "2026-11-09",
+  "updated": "2026-11-17",
   "models": {
     "claude": [
       { "id": "claude-fable-5-2", "label": "Claude Fable 5.2", "minCliVersion": "2.1.321" }
     ],
-    "codex": [],
+    "codex": [
+      { "id": "gpt-6.2-astra", "label": "GPT-6.2 Astra" },
+      { "id": "gpt-6.2-sol", "label": "GPT-6.2 Sol" }
+    ],
     "grok": [],
     "cursor": []
   }
